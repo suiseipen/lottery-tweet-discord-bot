@@ -1,0 +1,4 @@
+# lottery-tweet-discord-bot
+ツイートをリツイートしたユーザーの中から1人抽選してDiscord Botに送信させます。
+/lotteryでモーダルを出してそこにTweetIDを送信すると自動でユーザーを選んで送信します。
+Tweepy等は使用していません。
